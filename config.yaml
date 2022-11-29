@@ -1,0 +1,102 @@
+    # Project definitions (do not edit)
+Task: Gray Squirrel
+scorer: Gray Squirrel Group
+date: Nov4
+multianimalproject: false
+identity:
+
+    # Project path (change when moving around)
+project_path: /Users/vmtts/Vitoria/UMASS/Fall 2022/PSYCH 201 Intro to Behavioral Research/Gray
+  Squirrel-Gray Squirrel Group-2022-11-04
+
+    # Annotation data set configuration (and individual video cropping parameters)
+video_sets:
+  /Users/vmtts/Vitoria/UMASS/Fall 2022/PSYCH 201 Intro to Behavioral Research/Squirrel videos/Squirrel video 17.mp4:
+    crop: 0, 480, 0, 848
+  /Users/vmtts/Vitoria/UMASS/Fall 2022/PSYCH 201 Intro to Behavioral Research/Squirrel videos/Squirrel video 18.mp4:
+    crop: 0, 480, 0, 848
+  /Users/vmtts/Vitoria/UMASS/Fall 2022/PSYCH 201 Intro to Behavioral Research/Squirrel videos/Squirrel video 1.MOV:
+    crop: 0, 1080, 0, 1920
+  /Users/vmtts/Vitoria/UMASS/Fall 2022/PSYCH 201 Intro to Behavioral Research/Squirrel videos/Squirrel video 15.MOV:
+    crop: 0, 1080, 0, 1920
+  /Users/vmtts/Vitoria/UMASS/Fall 2022/PSYCH 201 Intro to Behavioral Research/Squirrel videos/Squirrel video 16.MOV:
+    crop: 0, 1080, 0, 1920
+  /Users/vmtts/Vitoria/UMASS/Fall 2022/PSYCH 201 Intro to Behavioral Research/Squirrel videos/Squirrel video 2.mp4:
+    crop: 0, 480, 0, 640
+  /Users/vmtts/Vitoria/UMASS/Fall 2022/PSYCH 201 Intro to Behavioral Research/Squirrel videos/Squirrel video 3.mp4:
+    crop: 0, 480, 0, 848
+  /Users/vmtts/Vitoria/UMASS/Fall 2022/PSYCH 201 Intro to Behavioral Research/Squirrel videos/Squirrel video 4.mp4:
+    crop: 0, 480, 0, 848
+  /Users/vmtts/Vitoria/UMASS/Fall 2022/PSYCH 201 Intro to Behavioral Research/Squirrel videos/Squirrel video 5.mp4:
+    crop: 0, 480, 0, 848
+  /Users/vmtts/Vitoria/UMASS/Fall 2022/PSYCH 201 Intro to Behavioral Research/Squirrel videos/Squirrel video 6.mp4:
+    crop: 0, 848, 0, 480
+  /Users/vmtts/Vitoria/UMASS/Fall 2022/PSYCH 201 Intro to Behavioral Research/Squirrel videos/Squirrel video 7.mp4:
+    crop: 0, 848, 0, 480
+  /Users/vmtts/Vitoria/UMASS/Fall 2022/PSYCH 201 Intro to Behavioral Research/Squirrel videos/Squirrel video 8.mp4:
+    crop: 0, 480, 0, 656
+  /Users/vmtts/Vitoria/UMASS/Fall 2022/PSYCH 201 Intro to Behavioral Research/Squirrel videos/Squirrel video 9.mp4:
+    crop: 0, 480, 0, 720
+  /Users/vmtts/Vitoria/UMASS/Fall 2022/PSYCH 201 Intro to Behavioral Research/Squirrel videos/Squirrel video 10.mp4:
+    crop: 0, 640, 0, 432
+  /Users/vmtts/Vitoria/UMASS/Fall 2022/PSYCH 201 Intro to Behavioral Research/Squirrel videos/Squirrel video 11.mp4:
+    crop: 0, 848, 0, 480
+  /Users/vmtts/Vitoria/UMASS/Fall 2022/PSYCH 201 Intro to Behavioral Research/Squirrel videos/Squirrel video 12.mp4:
+    crop: 0, 352, 0, 640
+  /Users/vmtts/Vitoria/UMASS/Fall 2022/PSYCH 201 Intro to Behavioral Research/Squirrel videos/Squirrel video 13.mp4:
+    crop: 0, 848, 0, 480
+  /Users/vmtts/Vitoria/UMASS/Fall 2022/PSYCH 201 Intro to Behavioral Research/Squirrel videos/Squirrel video 14.mp4:
+    crop: 0, 848, 0, 480
+bodyparts:
+- Right Front Leg
+- Right Back Leg
+- Left Front Leg
+- Left Back Leg
+- Tip of The Tail
+- Head
+- Torso
+- Nose
+- Mouth
+- Right Ear
+- Left Ear
+- Right Eye
+- Left Eye
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+start: 0
+stop: 1
+numframes2pick: 20
+
+    # Plotting configuration
+skeleton:
+- - bodypart1
+  - bodypart2
+- - objectA
+  - bodypart3
+skeleton_color: black
+pcutoff: 0.6
+dotsize: 12
+alphavalue: 0.7
+colormap: rainbow
+
+    # Training,Evaluation and Analysis configuration
+TrainingFraction:
+- 0.95
+iteration: 0
+default_net_type: resnet_50
+default_augmenter: default
+snapshotindex: -1
+batch_size: 8
+
+    # Cropping Parameters (for analysis and outlier frame detection)
+cropping: false
+    #if cropping is true for analysis, then set the values here:
+x1: 0
+x2: 640
+y1: 277
+y2: 624
+
+    # Refinement configuration (parameters from annotation dataset configuration also relevant in this stage)
+corner2move2:
+- 50
+- 50
+move2corner: true
