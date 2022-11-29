@@ -1,0 +1,23 @@
+scorer,,,Gray Squirrel Group,Gray Squirrel Group,Gray Squirrel Group,Gray Squirrel Group,Gray Squirrel Group,Gray Squirrel Group,Gray Squirrel Group,Gray Squirrel Group,Gray Squirrel Group,Gray Squirrel Group,Gray Squirrel Group,Gray Squirrel Group,Gray Squirrel Group,Gray Squirrel Group,Gray Squirrel Group,Gray Squirrel Group,Gray Squirrel Group,Gray Squirrel Group,Gray Squirrel Group,Gray Squirrel Group,Gray Squirrel Group,Gray Squirrel Group,Gray Squirrel Group,Gray Squirrel Group,Gray Squirrel Group,Gray Squirrel Group
+bodyparts,,,Right Front Leg,Right Front Leg,Right Back Leg,Right Back Leg,Left Front Leg,Left Front Leg,Left Back Leg,Left Back Leg,Tip of The Tail,Tip of The Tail,Head,Head,Torso,Torso,Nose,Nose,Mouth,Mouth,Right Ear,Right Ear,Left Ear,Left Ear,Right Eye,Right Eye,Left Eye,Left Eye
+coords,,,x,y,x,y,x,y,x,y,x,y,x,y,x,y,x,y,x,y,x,y,x,y,x,y,x,y
+labeled-data,Squirrel video 16,img000.png,,,,,,,,,613.1421804019743,1297.3384157433209,652.804911145525,1167.2168254092157,624.2755785054271,1204.0962066269033,666.7216587748411,1158.866776831626,659.0674475787173,1157.4751020686945,,,656.9799354343199,1177.654386131203,,,662.5466344860463,1168.6085001721474
+labeled-data,Squirrel video 16,img015.png,,,,,,,,,594.3387809464338,1289.2827599040434,641.3559775525539,1157.3734027590954,610.66419643467,1200.4724996480388,652.4572600845545,1150.1902199442716,645.92709388926,1148.8841867052126,,,640.7029609330243,1169.780718530155,,,647.2331271283189,1161.2915024762722
+labeled-data,Squirrel video 16,img080.png,,,,,,,,,466.94607748160394,1277.5177555620296,514.2630194212785,1134.1752549800742,482.2544998738516,1191.929757641736,526.0922549061972,1128.6085559283479,519.829718473005,1126.5210437839505,,,514.2630194212785,1151.5711895167192,,,518.4380437100733,1138.3502792688691
+labeled-data,Squirrel video 16,img090.png,,,,,,,,,469.54971362221556,1304.9658639632344,516.7596036570492,1157.9407778547522,485.73596163415857,1222.6857699025243,530.9225706674994,1152.5453618507713,523.5038736620255,1151.196507849776,,,518.7828846585421,1174.1270258666952,,,522.8294466615279,1163.3361938587332
+labeled-data,Squirrel video 16,img116.png,,,,,,,,,478.40518100553527,1371.2952242026515,522.2536412283648,1210.9742915129307,490.7375604432061,1282.2280393750289,537.3265494299626,1204.1229696031137,528.4198309472004,1204.1229696031137,,,526.3644343742551,1228.1025962874735,,,531.1603597111272,1216.4553490407843
+labeled-data,Squirrel video 16,img136.png,,,,,,,,,523.8951483742188,1373.6878342758455,568.9532951217506,1216.3536497311854,533.4977042384469,1263.6277709089236,581.5104835595873,1208.967068297164,572.6465858387614,1208.967068297164,,,568.2146369783484,1234.8201033162395,,,574.1239021255657,1223.7402311652072
+labeled-data,Squirrel video 16,img167.png,,,,,,,,,611.8485919468533,1372.0445875365378,666.5521153205495,1188.3970447819863,626.696691148285,1250.1338783037293,679.0557778059658,1185.2711291606322,672.0224676579192,1183.7081713499551,,,662.6447207938569,1213.4043697528189,,,668.896552036565,1200.1192283620642
+labeled-data,Squirrel video 16,img206.png,,,,,,,,,646.1850924556376,1321.5689887760416,,,,,,,,,,,,,,,,
+labeled-data,Squirrel video 16,img245.png,,,,,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,Squirrel video 16,img246.png,,,,,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,Squirrel video 16,img259.png,,,,,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,Squirrel video 16,img334.png,,,,,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,Squirrel video 16,img355.png,,,,,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,Squirrel video 16,img388.png,,,,,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,Squirrel video 16,img394.png,,,,,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,Squirrel video 16,img413.png,,,,,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,Squirrel video 16,img433.png,,,,,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,Squirrel video 16,img444.png,,,,,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,Squirrel video 16,img467.png,,,,,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,Squirrel video 16,img478.png,,,,,,,,,,,,,,,,,,,,,,,,,,
