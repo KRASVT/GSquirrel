@@ -19,4 +19,3 @@ Labeled data video 15: [CollectedData_Gray Squirrel Group.csv](https://github.co
 Labeled data video 16: [CollectedData_Gray Squirrel Group.csv](https://github.com/KRASVT/GSquirrel/files/10117551/CollectedData_Gray.Squirrel.Group.csv)
 Labeled data video 17: [CollectedData_Gray Squirrel Group.csv](https://github.com/KRASVT/GSquirrel/files/10117552/CollectedData_Gray.Squirrel.Group.csv)
 Labeled data video 18: [CollectedData_Gray Squirrel Group.csv](https://github.com/KRASVT/GSquirrel/files/10117554/CollectedData_Gray.Squirrel.Group.csv)
-Config.yaml file description (this Github section doesn't accept .yaml files) : 
