@@ -1,0 +1,37 @@
+all_joints:
+- - 0
+- - 1
+- - 2
+- - 3
+- - 4
+- - 5
+- - 6
+- - 7
+- - 8
+- - 9
+- - 10
+- - 11
+- - 12
+all_joints_names:
+- Right Front Leg
+- Right Back Leg
+- Left Front Leg
+- Left Back Leg
+- Tip of The Tail
+- Head
+- Torso
+- Nose
+- Mouth
+- Right Ear
+- Left Ear
+- Right Eye
+- Left Eye
+dataset: training-datasets/iteration-0/UnaugmentedDataSet_Gray SquirrelNov4/Gray Squirrel_Gray
+  Squirrel Group95shuffle1.mat
+global_scale: 0.8
+init_weights: /usr/local/lib/python3.7/dist-packages/deeplabcut/pose_estimation_tensorflow/models/pretrained/resnet_v1_50.ckpt
+location_refinement: true
+locref_stdev: 7.2801
+net_type: resnet_50
+num_joints: 13
+scoremap_dir: test
